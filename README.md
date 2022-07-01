@@ -1,5 +1,5 @@
 ```sh-session
-pip install bitches
+pip install fsociety
 ```
 
 <img src="https://komarev.com/ghpvc/?username=aghack&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors"></a>
