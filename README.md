@@ -10,6 +10,6 @@ pip install fsociety
 
 📩・**Want to reach? Add DukkeEmmma#1337 on [discord](https://discord.gg/b97BX4PsPf)**
 </a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aghack&count_private=true&hide=procfile,css&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="rdimo" /> </p>
-🌐・**Discord: [https://discord.gg/b97BX4PsPf](discord.gg/b97BX4PsPf)**
+🌐・**Discord: [https://discord.gg/kEMTsXGMRp](discord.gg/b97BX4PsPf)**
 
-<a href="https://discord.gg/b97BX4PsPf" target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/857479479068590130.png"/></a>
+<a href="https://discord.gg/kEMTsXGMRp" target="_blank"> <img src="https://discord.c99.nl/widget/theme-5/996287807960121345.png"/></a>
